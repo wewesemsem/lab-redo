@@ -7,7 +7,7 @@ import ChangeFailRate from './Components/ChangeFailRate';
 function App() {
   return (
     <div className="App">
-      <div className="app_title">Software Devlivery Performance Metrics</div>
+      <div className="app_title">Software Devlivery Performance Metrics!</div>
       <div className="app_container">
         <div className="componentLayout">
           <Deployments />
